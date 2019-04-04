@@ -16,7 +16,7 @@
 ### Step 1
 Download and install [nodejs](https://nodejs.org/en/)
 
-### Step 4
+### Step 2
 Download and install [mongodb](https://www.mongodb.com/download-center/community)
    1. Select MongoDB Community Server with the following settings:
       * **Version** - current release
